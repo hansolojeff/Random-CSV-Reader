@@ -56,5 +56,5 @@ if __name__ == "__main__":
     # 3. Make sure the CSV file has at least one row of data.
     # 4. If you haven't already, install the necessary library: pip install pyttsx3
     # Example usage:
-    csv_file_path = '/home/dskbee/Desktop/sambashare/CSVAsBB/BB-ALL-TECHS&KATAS.csv'
+    csv_file_path = 'your-CSV-file-here.csv'
     read_random_row_from_csv(csv_file_path)
